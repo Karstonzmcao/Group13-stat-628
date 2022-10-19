@@ -1,3 +1,6 @@
+project-code containing all parts of data cleaning, model building, model analysis.
+Shinyapp generate an app to predict bodyfat.
+
 code using:
 main project will read Bodyfat.csv
 shinyapp works individually
