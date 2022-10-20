@@ -1,5 +1,5 @@
 # Module 2 work by group13
-Contents in the repository: 
+Contents in the repository: \
 Data folder contains raw and new(cleaned) data.\
 Code folder contains code of model and shinyapp.\
 Image folder contains plots produced in analysis.\
