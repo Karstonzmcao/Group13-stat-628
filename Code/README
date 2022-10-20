@@ -1,5 +1,5 @@
 Project-code, module2_code.R, containing all parts of data cleaning, model building, model analysis.
-Shinyapp.R generate an app to predict bodyfat.
+Shinyapp.R generates an app to predict bodyfat.
 
 Code using:
 main project will read Bodyfat.csv.
