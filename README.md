@@ -6,4 +6,4 @@ c) Image folder contains plots produced in analysis. \
 d) A two-paged summary.
 
 How to use code: \
-Put project code and bodyfat.csv under same directory, double-click project code, source the code. If it doesn't work, you can change the directory provided in code annotation in the very start.
+Put project code, module2_code.R, and bodyfat.csv under same directory, double-click project code, source the code. If it doesn't work, you can change the directory provided in code annotation in the very start.
